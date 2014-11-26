@@ -1,3 +1,5 @@
 cold and dry
 
 testing how to change a file
+
+tesing staging area to long-term storage
